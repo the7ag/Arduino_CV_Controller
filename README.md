@@ -17,6 +17,12 @@ The controller utilizes a webcam or a compatible camera module to capture real-t
 - Configurable thresholds and parameters for gesture/object detection.
 - Support for multiple platforms (Windows, macOS, Linux).
 
+## Video
+
+
+https://github.com/the7ag/Arduino_CV_Controller/assets/95578914/f624ddb2-c06d-4db0-94a8-ee9ccacc368c
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
