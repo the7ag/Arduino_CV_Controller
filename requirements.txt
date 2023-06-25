@@ -1,0 +1,4 @@
+opencv-python==4.7.0.72
+numpy==1.25.0
+mediapipe==0.10.1
+pyfirmata==1.1.0
